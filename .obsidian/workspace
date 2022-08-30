@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xiaoqi Note/SIM-Sauron.md",
+            "file": "Xiaoqi Note/Git Commands.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xiaoqi Note/SIM-Sauron.md",
+                "file": "Xiaoqi Note/Git Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xiaoqi Note/SIM-Sauron.md"
+                "file": "Xiaoqi Note/Git Commands.md"
               }
             }
           },
@@ -134,8 +134,8 @@
   },
   "active": "7c3ce6b023672530",
   "lastOpenFiles": [
-    "Xiaoqi Note/Git Commands.md",
     "Xiaoqi Note/SIM-Sauron.md",
+    "Xiaoqi Note/Git Commands.md",
     "Notes/AWS Solutions Architect Associate/Amazon MQ.md",
     "Notes/AWS Solutions Architect Associate/Intro to AWS.md",
     "Notes/AWS Solutions Architect Associate/API Gateway.md",
