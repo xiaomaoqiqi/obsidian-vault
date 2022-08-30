@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7c3ce6b023672530",
+        "id": "2c88e8c85c885831",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xiaoqi Note/Git Commands.md",
-            "mode": "source",
+            "file": "Xiaoqi Note/SIM-Sauron.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xiaoqi Note/Git Commands.md",
+                "file": "Xiaoqi Note/SIM-Sauron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xiaoqi Note/Git Commands.md"
+                "file": "Xiaoqi Note/SIM-Sauron.md"
               }
             }
           },
@@ -132,17 +132,17 @@
     "direction": "horizontal",
     "width": 296.5
   },
-  "active": "7c3ce6b023672530",
+  "active": "2c88e8c85c885831",
   "lastOpenFiles": [
+    "Notes/AWS Solutions Architect Associate/Athena.md",
+    "Notes/AWS Solutions Architect Associate/Amazon MQ.md",
     "Xiaoqi Note/SIM-Sauron.md",
     "Xiaoqi Note/Git Commands.md",
-    "Notes/AWS Solutions Architect Associate/Amazon MQ.md",
+    "Xiaoqi Note/attachments/Pasted image 20220829230900.png",
     "Notes/AWS Solutions Architect Associate/Intro to AWS.md",
     "Notes/AWS Solutions Architect Associate/API Gateway.md",
     "Notes/AWS Solutions Architect Associate/Amazon WorkSpaces.md",
     "index.md",
-    "Scratch Pad/Scratch Pad.md",
-    "Notes/attachments/Pasted image 20220526205603.png",
-    "Notes/Static Site Generators/Static Site Generators.md"
+    "Scratch Pad/Scratch Pad.md"
   ]
 }
