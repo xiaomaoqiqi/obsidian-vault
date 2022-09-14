@@ -1,7 +1,16 @@
 ---
 created: 2022-09-01T18:30:05-04:00
-updated: 2022-09-01T18:38:58-04:00
+updated: 2022-09-02T17:14:37-04:00
 ---
+
+SecDevOps has added a set of new APIs to the [SauronPythonClient](https://code.amazon.com/packages/SauronPythonClient/trees/mainline) package related to watchlist email reports! This package is a Python client for communicating with the [Sauron v3](https://w.amazon.com/bin/view/AWS_Security_Sauron_V3) APIs and provides a a convenience wrapper around the [AWSSECSauronServicePythonClient](https://code.amazon.com/packages/AWSSECSauronServicePythonClient/) auto-generated Coral Python client (not very user-friendly). This package is also available within the [AutomatedRunbooks](https://w.amazon.com/bin/view/AWS_IT_Security/SecDevOps/AutomatedRunbooks) service.The new APIs are specific to Watchlist email reports and expose the following functionality:  
+
+1.  create_watchlist_email_report
+2.  get_watchlist_email_report
+3.  search_watchlist_email_reports (MongoDB query syntax)
+4.  text_search_watchlist_email_reports (regex query syntax)
+
+
 CRs: 
 
 Add P1 APIs create/get/search watchlistemailreport to SauronPythonClient - sim:SECDEVOPS-5090

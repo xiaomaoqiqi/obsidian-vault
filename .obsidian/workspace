@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xiaoqi Note/Pending Action items.md",
+            "file": "CompTIA Linux+/Course Notes.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xiaoqi Note/Pending Action items.md",
+                "file": "CompTIA Linux+/Course Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xiaoqi Note/Pending Action items.md"
+                "file": "CompTIA Linux+/Course Notes.md"
               }
             }
           },
@@ -130,19 +130,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 206.5
   },
   "active": "f71e8a0ead85061d",
   "lastOpenFiles": [
-    "Sauron AR/Python Wrapped APIs.md",
-    "WSM/DUB-IAD Sauron Tech Lead meeting notes/Sauron Tech Lead Tag-up 1.md",
-    "WSM/DUB-IAD Sauron Tech Lead meeting notes/DUB IAD Sauron Tech Lead Tag-up.md",
     "index.md",
-    "Xiaoqi Note/Git Commands.md",
-    "Xiaoqi Note/SecOps Queue Review/Queue review Notes.md",
-    "Sauron AR/Jupyter Notebook.md",
-    "Xiaoqi Note/attachments/Pasted image 20220829231712.png",
-    "Xiaoqi Note/attachments/Pasted image 20220829231247.png",
-    "Xiaoqi Note/attachments/Pasted image 20220829230940.png"
+    "Xiaoqi Note/Sauron Endpoint on NAWS/Sync Brazil pkg to Local.md",
+    "Xiaoqi Note/AWS Security Guardians Program.md",
+    "Xiaoqi Note/Sauron Endpoint on NAWS/CDKWorkshop with Python.md",
+    "Xiaoqi Note/SDE Bootcamp Note.md",
+    "Xiaoqi Note/Sauron Endpoint on NAWS/VSCode.md",
+    "Xiaoqi Note/Sauron Endpoint on NAWS/Learning CDK.md",
+    "Xiaoqi Note/Sauron Endpoint on NAWS/security token is expired.md",
+    "Xiaoqi Note/Sauron Endpoint on NAWS/Package-json-bkp.md",
+    "Xiaoqi Note/TPM Helper.md"
   ]
 }
